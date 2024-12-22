@@ -5,25 +5,25 @@
 
 │   ├── controllers
 
-│   │   └── userController.js       # User-related API logic
+│   │   └──> userController.js       # User-related API logic
 
 │   ├── models
 
-│   │   └── User.js                 # User model (if using a database)
+│   │   └──> User.js                 # User model (if using a database)
 
 │   ├── routes
 
-│   │   └── userRoutes.js           # User API routes
+│   │   └──> userRoutes.js           # User API routes
 
 │   ├── middlewares
 
-│   │   └── errorMiddleware.js      # Middleware for handling API errors
+│   │   └──> errorMiddleware.js      # Middleware for handling API errors
 
 │   └── utils
 
-│       └── ApiError.js             # ApiError class
+│       └──> ApiError.js             # ApiError class
 
-│       └── ApiResponse.js          # ApiResponse class
+│       └──> ApiResponse.js          # ApiResponse class
 
-└── app.js                          # Main server setup
+└──> app.js                          # Main server setup
 
