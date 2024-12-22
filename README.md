@@ -1,11 +1,3 @@
-# API Error and Response Handling
-
-This project demonstrates a basic structure for handling API errors and responses in a Node.js application. It includes custom classes `ApiError` and `ApiResponse` to manage error and success responses for API endpoints.
-
-## Features
-
-- **ApiError Class**: Handles API errors, including error messages, status codes, and error details.
-- **ApiResponse Class**: Manages successful API responses, with customizable messages and status codes.
 
 ## Project Structure
 
